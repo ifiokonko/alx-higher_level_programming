@@ -1,3 +1,3 @@
 TEST-DRIVEN DEVELOPMENT
 
-files have scripts for tasks
+project is aimed to point the importance of test in python
