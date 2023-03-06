@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """
 This is the print_square module.
 This module supplies one function, print_square().
