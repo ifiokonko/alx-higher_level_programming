@@ -1,3 +1,4 @@
+
 The ``print_square`` module
 ==========================
 
